@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt6ZjFkOXk3dGxsbjZpYjQ0eWZhcnlwYzJiYW1iM2I0YnhwMGt4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MI4BWxZhZjnvXot8JT/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Gears04/Gears04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
