@@ -1,7 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt6ZjFkOXk3dGxsbjZpYjQ0eWZhcnlwYzJiYW1iM2I0YnhwMGt4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MI4BWxZhZjnvXot8JT/giphy.gif" width="100"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp2bWp5bGRpYmVkM3FuanV5d3lteHU0MWUwN256dHEzN3RvbW43ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H5H3eltXPdmPXz3gTZ/giphy.gif" width="300"/>
 </div>
 
+
+
+<div id="badges" align="center">
+  <a href="https://t.me/l104l401l">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=Gears04&color=brightgreen)
+</p>  
 <!--
 **Gears04/Gears04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
