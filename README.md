@@ -10,9 +10,8 @@
   </a>
 </div>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Gears04&color=brightgreen)
-</p>  
+![](https://komarev.com/ghpvc/?username=Gears04&color=brightgreen)
+
 <!--
 **Gears04/Gears04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
