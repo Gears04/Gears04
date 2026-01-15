@@ -1,17 +1,20 @@
-
+                                 Don't forget that,
+                                 Never mever give up
 <div id="header" align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp2bWp5bGRpYmVkM3FuanV5d3lteHU0MWUwN256dHEzN3RvbW43ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H5H3eltXPdmPXz3gTZ/giphy.gif" width="300"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=Gears04&color=brightgreen)
 
+<h1>
+  My contacts
+</h1>
 
 <div id="badges" align="center">
   <a href="https://t.me/l104l401l">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=Gears04&color=brightgreen)
 
 <h1>
   My competencies
