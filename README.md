@@ -27,8 +27,8 @@
 
 <h2>
   Tools
-</h2>
-
+</h2> 
+ - Git
  - HTTP server without frameworks
  - Middleware on pure net/http
  - REST API
