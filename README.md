@@ -21,7 +21,7 @@
 </h1>
 
  - Development of CLI tools
- - Working with HHTP-server
+ - Working with HTTP-server
  - REST‑API with JSON serialization
  - Docker containers
 
